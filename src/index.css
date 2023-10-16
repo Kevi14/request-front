@@ -1,0 +1,10 @@
+
+  
+  /* If there are different input types and you want to target a specific one */
+  .container input[type="text"] {
+    border:none;
+    background-color: #f2f2f2;
+  }
+  
+  /* ... Add more styles or selectors as needed ... */
+  

@@ -1,0 +1,26 @@
+.container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #f2f2f2;
+    max-width: 600px;
+    margin: auto;
+    margin-bottom: 30px;
+    height: 60px;
+  }
+  
+  .urlInput {
+    flex: 1;
+    margin: 0 10px;
+  }
+  
+  .sendButton {
+    padding: 5px 15px;
+    background: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    height: 40px;
+    margin-right: 10px;
+  }
+  
